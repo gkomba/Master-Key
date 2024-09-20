@@ -1,7 +1,5 @@
 # Master Key
 
-![Master Key](https://github.com/mr-body/Master-Key/blob/main/exec/img.jpg)
-
 ## Descrição
 Uma ferramenta poderosa capaz de abrir todos os aplicativos que não abrem nos computadores do campus!!
 Desenvolvida por edalexan!! 
