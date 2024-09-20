@@ -43,5 +43,11 @@ Se você encontrar algum bug ou tiver sugestões de melhorias, por favor abra um
 # Contacto
 
 edalexan's github: https://github.com/EdAnder32 
-edalexan's gmail: edmilsonander83@gmail.com
+
+edalexan's E-mail: edmilsonander83@gmail.com
+
 edalexan's linkedin: http://www.linkedin.com/in/edmilson-alexandre-b46a99264
+
+gkomba's github: https://github.com/gkomba
+
+gkomba's E-mal: gkombagildo@gmail.com
