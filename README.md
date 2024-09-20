@@ -8,10 +8,15 @@ Uma ferramenta destinada a cadetes e pisciners da escola 42
 ## Apps que o Master-key pode abrir
 
 1 - __VS code__
+
 2 - __Google-Chrome__
+
 3 - __Brave__
+
 4 - __Slack__
+
 5 - __Spotify__
+
 6 - __Discord__
 
 ## Como Usar
@@ -50,4 +55,4 @@ edalexan's linkedin: http://www.linkedin.com/in/edmilson-alexandre-b46a99264
 
 gkomba's github: https://github.com/gkomba
 
-gkomba's E-mal: gkombagildo@gmail.com
+gkomba's E-mail: gkombagildo@gmail.com
