@@ -5,6 +5,15 @@ Uma ferramenta poderosa capaz de abrir todos os aplicativos que não abrem nos c
 Desenvolvida por edalexan!! 
 Uma ferramenta destinada a cadetes e pisciners da escola 42
 
+## Apps que o Master-key pode abrir
+
+1 - __VS code__
+2 - __Google-Chrome__
+3 - __Brave__
+4 - __Slack__
+5 - __Spotify__
+6 - __Discord__
+
 ## Como Usar
 
 1. Clone o repositório:
@@ -21,13 +30,18 @@ Uma ferramenta destinada a cadetes e pisciners da escola 42
     ```
 4. Execute o script:
     ```bash
-    ./app
+    ./script <nome do app>
     ```
-
+5. Execute o scrpit e cria um alias para executar qualquer app em qualquer lado do terminal
+   ```bash
+    ./script all
+    ```
 ## Reportando Bugs
 
-Se você encontrar algum bug ou tiver sugestões de melhorias, entre em contato comigo pelo email: [mrbdoy@outlook.pt](mailto:mrbdoy@outlook.pt).
+Se você encontrar algum bug ou tiver sugestões de melhorias, por favor abra um pull request ou uma issue.
 
 # Contacto
 
-github: https://github.com/EdAnder32 
+edalexan's github: https://github.com/EdAnder32 
+edalexan's gmail: edmilsonander83@gmail.com
+edalexan's linkedin: http://www.linkedin.com/in/edmilson-alexandre-b46a99264
