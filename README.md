@@ -51,8 +51,10 @@ edalexan's github: https://github.com/EdAnder32
 
 edalexan's E-mail: edmilsonander83@gmail.com
 
-edalexan's linkedin: http://www.linkedin.com/in/edmilson-alexandre-b46a99264
+edalexan's Linkedin: http://www.linkedin.com/in/edmilson-alexandre-b46a99264
 
 gkomba's github: https://github.com/gkomba
 
 gkomba's E-mail: gkombagildo@gmail.com
+
+gkomba's Linkedin: www.linkedin.com/in/gildo-komba-123a12329
