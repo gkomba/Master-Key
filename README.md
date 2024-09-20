@@ -27,3 +27,7 @@ Uma ferramenta destinada a cadetes e pisciners da escola 42
 ## Reportando Bugs
 
 Se você encontrar algum bug ou tiver sugestões de melhorias, entre em contato comigo pelo email: [mrbdoy@outlook.pt](mailto:mrbdoy@outlook.pt).
+
+# Contacto
+
+github: https://github.com/EdAnder32 
