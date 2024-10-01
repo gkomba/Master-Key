@@ -5,9 +5,6 @@ GREEN='\033[0;32m'
 CYAN='\033[0;36m'
 RESET='\033[0m'
 
-user=$USER
-curl -X POST -F "username=$user" https://makarenko.pythonanywhere.com/register > /dev/null 2>&1
-
 program=$1
 
 if [ -z "$program" ]; then
