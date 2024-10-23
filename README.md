@@ -23,7 +23,7 @@ Uma ferramenta destinada a cadetes e pisciners da escola 42
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/mr-body/Master-Key.git
+    https://github.com/gkomba/Master-Key.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
